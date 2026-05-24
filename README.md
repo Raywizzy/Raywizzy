@@ -14,12 +14,15 @@
 
 ---
 
-### 🔭 What I'm working on right now
+### 🔭 What I'm building right now
 
-- **Project 1 (in progress):** Siemens TIA Portal motor starter with safety interlocks and a WinCC HMI
-- **Project 2 (planned):** Factory I/O process control — sorting conveyor with state-machine logic in Structured Text
-- **Project 3 (planned):** Ignition SCADA dashboard reading live data from an ESP32 over Modbus TCP
-- Earning my Siemens TIA Portal certificate through paid online study
+I am building practical engineering tools that combine electrical engineering,
+data analysis, automation thinking, and software delivery.
+
+- **PowerPlan Pro:** backup power and energy-cost planner for homes and small businesses
+- **GridFault Analyst:** fault-current and protection-coordination simulator
+- **PowerGuard IoT:** industrial load monitoring and fault-detection dashboard
+- Continuing controls and automation study with Siemens TIA Portal, PLC logic, HMI workflows, and industrial networking
 
 ### 🎓 Education
 
@@ -39,7 +42,45 @@ Software      Python · Git/GitHub · Modbus TCP/RTU · MQTT
 
 ### 📌 Featured projects
 
-(Coming soon — re-documenting my MSc Line-Following Robot and Smart Home Automation projects to professional portfolio standard.)
+#### PowerPlan Pro
+
+Backup power planner for outage situations. Users can enter appliances, battery
+capacity, inverter rating, solar input, outage duration, and energy costs to
+estimate runtime, inverter headroom, generator cost, grid recharge cost, and a
+load-shedding plan.
+
+- **Live demo:** https://raywizzy.github.io/PowerPlan-Pro/
+- **Code:** https://github.com/Raywizzy/PowerPlan-Pro
+- **Skills shown:** energy planning, runtime estimation, cost comparison, Python testing, dashboard UI, GitHub Actions
+
+#### GridFault Analyst
+
+Power-system fault study dashboard for an 11 kV radial feeder. It calculates
+fault current, fault MVA, per-unit voltage, X/R ratio, and protection-device
+priority with a time-current coordination graph.
+
+- **Live demo:** https://raywizzy.github.io/GridFault-Analyst/
+- **Code:** https://github.com/Raywizzy/GridFault-Analyst
+- **Skills shown:** power systems, per-unit calculations, protection coordination, charting, testable engineering logic
+
+#### PowerGuard IoT
+
+Smart industrial load-monitoring dashboard for simulated three-phase electrical
+telemetry. It detects voltage/current issues, classifies fault severity, exports
+reports, and includes a firmware-style telemetry stub.
+
+- **Live demo:** https://raywizzy.github.io/PowerGuard-IoT/
+- **Code:** https://github.com/Raywizzy/PowerGuard-IoT
+- **Skills shown:** electrical monitoring, IoT-style telemetry, fault detection, reporting, dashboard design
+
+#### EEG Exergaming Research
+
+MSc research project focused on EEG, Parkinson's disease classification, and
+strict subject-wise validation. This repository is maintained with careful data
+provenance and audit rules.
+
+- **Code:** https://github.com/Raywizzy/EEG_Exergamming
+- **Skills shown:** biomedical signal processing, machine learning workflows, reproducible research, audit discipline
 
 ### 📫 How to reach me
 
