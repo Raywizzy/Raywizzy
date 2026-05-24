@@ -22,6 +22,7 @@ data analysis, automation thinking, and software delivery.
 - **PowerPlan Pro:** backup power and energy-cost planner for homes and small businesses
 - **SmartBill Analyzer:** electricity bill anomaly and savings planner
 - **MaintenanceMind CMMS Lite:** asset maintenance, work order, and downtime dashboard
+- **PanelCheck Pro:** electrical panel load schedule and phase-balance checker
 - **GridFault Analyst:** fault-current and protection-coordination simulator
 - **PowerGuard IoT:** industrial load monitoring and fault-detection dashboard
 - Continuing controls and automation study with Siemens TIA Portal, PLC logic, HMI workflows, and industrial networking
@@ -84,6 +85,16 @@ MTTR, completion rate, and maintenance focus actions.
 - **Live demo:** https://raywizzy.github.io/MaintenanceMind-CMMS/
 - **Code:** https://github.com/Raywizzy/MaintenanceMind-CMMS
 - **Skills shown:** maintenance engineering, CMMS workflows, downtime tracking, MTTR, preventive maintenance, KPI reporting
+
+#### PanelCheck Pro
+
+Electrical panel load schedule and phase-balance checker for small commercial
+and residential distribution boards. It flags overloaded circuits, checks spare
+capacity, calculates demand load, and highlights phase imbalance.
+
+- **Live demo:** https://raywizzy.github.io/PanelCheck-Pro/
+- **Code:** https://github.com/Raywizzy/PanelCheck-Pro
+- **Skills shown:** electrical load calculations, panel scheduling, demand factors, phase balance, compliance-style warnings
 
 #### PowerGuard IoT
 
