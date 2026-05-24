@@ -8,11 +8,19 @@
 <p align="center">
   <a href="mailto:mokoloraymond5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ebubechukwu-mokolo-7241861a2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://raywizzy.github.io/Raymond-Mokolo-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1769D2?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <img src="https://img.shields.io/badge/Location-London%2C%20UK-1F3864?style=flat" alt="Location">
   <img src="https://img.shields.io/badge/Visa-Graduate%20Route-2E7D32?style=flat" alt="Visa">
 </p>
 
 ---
+
+### 🌐 Portfolio website
+
+View the project hub with live demos, screenshots, GitHub links, skills, contact
+details, and CV download:
+
+**https://raywizzy.github.io/Raymond-Mokolo-Portfolio/**
 
 ### 🔭 What I'm building right now
 
