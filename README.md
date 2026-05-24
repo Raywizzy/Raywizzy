@@ -21,6 +21,7 @@ data analysis, automation thinking, and software delivery.
 
 - **PowerPlan Pro:** backup power and energy-cost planner for homes and small businesses
 - **SmartBill Analyzer:** electricity bill anomaly and savings planner
+- **MaintenanceMind CMMS Lite:** asset maintenance, work order, and downtime dashboard
 - **GridFault Analyst:** fault-current and protection-coordination simulator
 - **PowerGuard IoT:** industrial load monitoring and fault-detection dashboard
 - Continuing controls and automation study with Siemens TIA Portal, PLC logic, HMI workflows, and industrial networking
@@ -73,6 +74,16 @@ off-peak cost drivers, and suggests savings actions.
 - **Live demo:** https://raywizzy.github.io/SmartBill-Analyzer/
 - **Code:** https://github.com/Raywizzy/SmartBill-Analyzer
 - **Skills shown:** energy analytics, anomaly detection, cost modelling, savings recommendations, dashboard UI
+
+#### MaintenanceMind CMMS Lite
+
+Maintenance management dashboard for small factories, workshops, labs, and
+facilities. It tracks asset risk, open faults, preventive maintenance, downtime,
+MTTR, completion rate, and maintenance focus actions.
+
+- **Live demo:** https://raywizzy.github.io/MaintenanceMind-CMMS/
+- **Code:** https://github.com/Raywizzy/MaintenanceMind-CMMS
+- **Skills shown:** maintenance engineering, CMMS workflows, downtime tracking, MTTR, preventive maintenance, KPI reporting
 
 #### PowerGuard IoT
 
