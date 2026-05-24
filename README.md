@@ -20,6 +20,7 @@ I am building practical engineering tools that combine electrical engineering,
 data analysis, automation thinking, and software delivery.
 
 - **PowerPlan Pro:** backup power and energy-cost planner for homes and small businesses
+- **SmartBill Analyzer:** electricity bill anomaly and savings planner
 - **GridFault Analyst:** fault-current and protection-coordination simulator
 - **PowerGuard IoT:** industrial load monitoring and fault-detection dashboard
 - Continuing controls and automation study with Siemens TIA Portal, PLC logic, HMI workflows, and industrial networking
@@ -62,6 +63,16 @@ priority with a time-current coordination graph.
 - **Live demo:** https://raywizzy.github.io/GridFault-Analyst/
 - **Code:** https://github.com/Raywizzy/GridFault-Analyst
 - **Skills shown:** power systems, per-unit calculations, protection coordination, charting, testable engineering logic
+
+#### SmartBill Analyzer
+
+Electricity bill analysis tool for households and small businesses. It estimates
+bill cost, detects abnormal usage, highlights standby waste, compares peak and
+off-peak cost drivers, and suggests savings actions.
+
+- **Live demo:** https://raywizzy.github.io/SmartBill-Analyzer/
+- **Code:** https://github.com/Raywizzy/SmartBill-Analyzer
+- **Skills shown:** energy analytics, anomaly detection, cost modelling, savings recommendations, dashboard UI
 
 #### PowerGuard IoT
 
