@@ -27,6 +27,7 @@ details, and CV download:
 I am building practical engineering tools that combine electrical engineering,
 data analysis, automation thinking, and software delivery.
 
+- **Switch It Up:** virtual wardrobe, stylist marketplace, mall wishlist, and social fashion prototype
 - **PowerPlan Pro:** backup power and energy-cost planner for homes and small businesses
 - **SmartBill Analyzer:** electricity bill anomaly and savings planner
 - **MaintenanceMind CMMS Lite:** asset maintenance, work order, and downtime dashboard
@@ -52,6 +53,17 @@ Software      Python · Git/GitHub · Modbus TCP/RTU · MQTT
 ```
 
 ### 📌 Featured projects
+
+#### Switch It Up
+
+Fashion-tech prototype for people who want to switch up their look. Users can
+build a virtual wardrobe, dress a virtual version of themselves, ask stylists for
+free or paid help, receive mall wishlists, post outfits, and run styling
+competitions.
+
+- **Live demo:** https://raywizzy.github.io/SwitchItUp/
+- **Code:** https://github.com/Raywizzy/SwitchItUp
+- **Skills shown:** product thinking, marketplace flow, virtual wardrobe UX, stylist workflow, social features, Python rule engine
 
 #### PowerPlan Pro
 
